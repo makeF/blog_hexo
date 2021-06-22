@@ -1,2 +1,2 @@
 # blog_hexo
-hexo public
+hexo public run
