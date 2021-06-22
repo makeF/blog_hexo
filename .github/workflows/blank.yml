@@ -30,6 +30,10 @@ jobs:
 
     - name: Deploy Hexo 
       run: |
+        ls
+        pwd
+        cd ~
+        pwd
         hexo init blog
         cd blog
         npm install
